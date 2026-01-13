@@ -14,7 +14,7 @@
 <br/>
 
 [![Website](https://img.shields.io/badge/masonearl.com-111111?style=for-the-badge&logo=safari&logoColor=white)](https://masonearl.com)
-[![Twitter](https://img.shields.io/badge/@buildmase-111111?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/buildmase)
+[![Twitter](https://img.shields.io/badge/@masonearl-111111?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/masonearl)
 [![Spotify](https://img.shields.io/badge/Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](#now-playing)
 
 </div>
@@ -53,9 +53,9 @@ $ cat philosophy.txt
 
 ### Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=buildmase&show_icons=true&hide_border=true&bg_color=111111&text_color=e5e5e5&icon_color=1DB954&title_color=e5e5e5&hide_title=true&hide_rank=false&rank_icon=github" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=masonearl&show_icons=true&hide_border=true&bg_color=111111&text_color=e5e5e5&icon_color=1DB954&title_color=e5e5e5&hide_title=true&hide_rank=false&rank_icon=github" width="100%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=buildmase&theme=dark&hide_border=true&background=111111&ring=1DB954&fire=1DB954&currStreakLabel=E5E5E5&sideLabels=E5E5E5&currStreakNum=E5E5E5&dates=666666" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=masonearl&theme=dark&hide_border=true&background=111111&ring=1DB954&fire=1DB954&currStreakLabel=E5E5E5&sideLabels=E5E5E5&currStreakNum=E5E5E5&dates=666666" width="100%" />
 
 </td>
 </tr>
@@ -79,10 +79,10 @@ $ cat philosophy.txt
 
 | Repo | Description |
 |------|-------------|
-| [masonearl.com](https://github.com/buildmase/masonearl.com) | Personal site, wiki, tools, and experiments |
-| [utah-construction](https://github.com/buildmase/utah-construction) | Directory of Utah construction companies with revenue data |
-| [construction-tools](https://github.com/buildmase/construction-tools) | Top 70 construction software tools worldwide |
-| [einstein](https://github.com/buildmase/einstein) | Einstein's contributions and the evolution of his ideas |
+| [masonearl.com](https://github.com/masonearl/masonearl.com) | Personal site, wiki, tools, and experiments |
+| [utah-construction](https://github.com/masonearl/utah-construction) | Directory of Utah construction companies with revenue data |
+| [construction-tools](https://github.com/masonearl/construction-tools) | Top 70 construction software tools worldwide |
+| [einstein](https://github.com/masonearl/einstein) | Einstein's contributions and the evolution of his ideas |
 
 ---
 
@@ -90,7 +90,7 @@ $ cat philosophy.txt
 
 ### Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=buildmase&bg_color=111111&color=e5e5e5&line=1DB954&point=e5e5e5&area=true&area_color=1DB954&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=masonearl&bg_color=111111&color=e5e5e5&line=1DB954&point=e5e5e5&area=true&area_color=1DB954&hide_border=true" width="100%" />
 
 </div>
 
@@ -98,7 +98,7 @@ $ cat philosophy.txt
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=buildmase&color=111111&style=flat-square&label=visitors" />
+<img src="https://komarev.com/ghpvc/?username=masonearl&color=111111&style=flat-square&label=visitors" />
 
 ```
 $ exit
