@@ -67,7 +67,7 @@ $ cat philosophy.txt
 
 ### Now Playing
 
-[![Spotify](https://novatorem-buildmase.vercel.app/api/spotify?background_color=111111&border_color=111111)](https://open.spotify.com/user/buildmase)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1223967226&cover_image=true&theme=natemoo-re&show_offline=true&background_color=111111&interchange=false&bar_color=1DB954)](https://spotify-github-profile.kittinanx.com/api/view?uid=1223967226&redirect=true)
 
 <sub>If nothing's playing, I'm probably in Xcode or Cursor.</sub>
 
