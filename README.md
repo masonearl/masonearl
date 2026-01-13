@@ -67,7 +67,7 @@ $ cat philosophy.txt
 
 ### Now Playing
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1223967226&cover_image=true&theme=natemoo-re&show_offline=true&background_color=111111&interchange=false&bar_color=1DB954)](https://spotify-github-profile.kittinanx.com/api/view?uid=1223967226&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1223967226&cover_image=true&theme=default&show_offline=true&background_color=111111&interchange=false&bar_color=1DB954)](https://spotify-github-profile.kittinanx.com/api/view?uid=1223967226&redirect=true)
 
 <sub>If nothing's playing, I'm probably in Xcode or Cursor.</sub>
 
@@ -82,6 +82,7 @@ $ cat philosophy.txt
 | [masonearl.com](https://github.com/buildmase/masonearl.com) | Personal site, wiki, tools, and experiments |
 | [utah-construction](https://github.com/buildmase/utah-construction) | Directory of Utah construction companies with revenue data |
 | [construction-tools](https://github.com/buildmase/construction-tools) | Top 70 construction software tools worldwide |
+| [einstein](https://github.com/buildmase/einstein) | Einstein's contributions and the evolution of his ideas |
 
 ---
 
