@@ -44,9 +44,9 @@ $ cat philosophy.txt
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=masonearl&show_icons=true&hide_border=true&bg_color=00000000&text_color=e5e5e5&icon_color=1DB954&title_color=fff&hide_title=true&hide_rank=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=masonearl&show_icons=true&hide_border=true&bg_color=0d1117&text_color=e5e5e5&icon_color=1DB954&title_color=fff&hide_title=true&hide_rank=true" width="100%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=masonearl&theme=dark&hide_border=true&background=00000000&ring=1DB954&fire=1DB954&currStreakLabel=E5E5E5&sideLabels=E5E5E5&currStreakNum=E5E5E5&dates=666666" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=masonearl&theme=dark&hide_border=true&background=0d1117&ring=1DB954&fire=1DB954&currStreakLabel=E5E5E5&sideLabels=E5E5E5&currStreakNum=E5E5E5&dates=666666" width="100%" />
 
 </td></tr>
 </table>
@@ -55,7 +55,7 @@ $ cat philosophy.txt
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=masonearl&bg_color=00000000&color=e5e5e5&line=1DB954&point=e5e5e5&area=true&area_color=1DB954&hide_border=true&height=200" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=masonearl&bg_color=0d1117&color=e5e5e5&line=1DB954&point=e5e5e5&area=true&area_color=1DB954&hide_border=true&height=200" width="100%" />
 
 <sub>**[masonearl.com](https://masonearl.com)** — wiki, apps, tools, and experiments. Go build something.</sub>
 
