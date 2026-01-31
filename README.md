@@ -57,6 +57,6 @@ $ cat philosophy.txt
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=masonearl&bg_color=00000000&color=e5e5e5&line=1DB954&point=e5e5e5&area=true&area_color=1DB954&hide_border=true&height=200" width="100%" />
 
-<sub>Thanks for stopping by. Go build something.</sub>
+<sub>**[masonearl.com](https://masonearl.com)** — wiki, apps, tools, and experiments. Go build something.</sub>
 
 </div>
