@@ -1,21 +1,22 @@
 <div align="center">
 
 ```
- ███╗   ███╗ █████╗ ███████╗███████╗
- ████╗ ████║██╔══██╗██╔════╝██╔════╝
- ██╔████╔██║███████║███████╗█████╗  
- ██║╚██╔╝██║██╔══██║╚════██║██╔══╝  
- ██║ ╚═╝ ██║██║  ██║███████║███████╗
- ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝
+ ███╗   ███╗ █████╗ ███████╗ ██████╗ ███╗   ██╗
+ ████╗ ████║██╔══██╗██╔════╝██╔═══██╗████╗  ██║
+ ██╔████╔██║███████║███████╗██║   ██║██╔██╗ ██║
+ ██║╚██╔╝██║██╔══██║╚════██║██║   ██║██║╚██╗██║
+ ██║ ╚═╝ ██║██║  ██║███████║╚██████╔╝██║ ╚████║
+ ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=E5E5E5&center=true&vCenter=true&width=435&lines=iOS+%26+macOS+Developer;Building+in+Utah;Shipping+code+daily" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=E5E5E5&center=true&vCenter=true&width=500&lines=Cursor+Ambassador;iOS+%26+macOS+Developer;15%2B+Apps+in+the+App+Store;Building+in+Salt+Lake+City" alt="Typing SVG" />
 
 <br/>
 
 [![Website](https://img.shields.io/badge/masonearl.com-111111?style=for-the-badge&logo=safari&logoColor=white)](https://masonearl.com)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/developer/mason-earl/id1138029742)
 [![Twitter](https://img.shields.io/badge/@masonearl-111111?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/masonearl)
-[![Spotify](https://img.shields.io/badge/Now_Playing-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](#now-playing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/masonearl)
 
 </div>
 
@@ -34,17 +35,23 @@ $ whoami
 $ pwd
 > /utah/salt-lake-city
 
-$ cat skills.txt
-> swift, swiftui, xcode
-> javascript, html, css
-> cursor, github, vercel
+$ cat role.txt
+> cursor ambassador
+> ios & macos developer
+> former construction PM
 
-$ uptime
-> building since 2015
+$ cat skills.txt
+> swift, swiftui, uikit
+> react, typescript, next.js
+> cursor, xcode, vercel
+
+$ cat apps.txt
+> 15+ published apps
+> app store developer since 2018
 
 $ cat philosophy.txt
 > ship fast. learn faster.
-> minimal > complex.
+> build things that matter.
 > dark mode only.
 ```
 
@@ -63,6 +70,69 @@ $ cat philosophy.txt
 
 ---
 
+### Published Apps
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### iOS & iPad
+
+| App | What it does |
+|-----|--------------|
+| [Modern Wisdom](https://apps.apple.com/us/app/modern-wisdom/id6743654953) | Build your lexicon |
+| [Tasks.md](https://apps.apple.com/us/app/tasks-md/id6740547775) | For those who live in Cursor |
+| [Bigloop](https://apps.apple.com/us/app/bigloop/id6476565928) | Effortless organization |
+| [Paperloop](https://apps.apple.com/us/app/paperloop/id6480380090) | Effortless productivity |
+| [Beer Club](https://apps.apple.com/us/app/beer-club/id6740018498) | Social app for beer lovers |
+| [Memory Deck](https://apps.apple.com/us/app/memory-deck-mind-maps/id6738466498) | Memorize with mind maps |
+| [Swift Stakes](https://apps.apple.com/us/app/swift-stakes-blue-stakes-utah/id6737917498) | Blue Stakes automation for Utah |
+| [Book Social](https://apps.apple.com/us/app/book-social-quizzes/id6736811753) | Get more from your library |
+| [Binaural Focus](https://apps.apple.com/us/app/binaural-focus/id6504919498) | Fuel for focus |
+| [T1D Guide](https://apps.apple.com/us/app/type-1-diabetes-guide/id6480107371) | Just diagnosed Type 1 Diabetes |
+
+</td>
+<td width="50%" valign="top">
+
+#### macOS
+
+| App | What it does |
+|-----|--------------|
+| [Construction Takeoff](https://apps.apple.com/us/app/construction-takeoff/id6466373898) | PDF editor & markups |
+| [Construction Docs Pro](https://apps.apple.com/us/app/construction-docs-pro/id6736613259) | Estimates & bid documents |
+| [Paperloop](https://apps.apple.com/us/app/paperloop/id6480380090) | Effortless productivity |
+| [fsocial](https://apps.apple.com/us/app/fsocial/id6738994024) | All your platforms, one window |
+
+#### iMessage
+
+| App | What it does |
+|-----|--------------|
+| [Qwizr](https://apps.apple.com/us/app/qwizr/id6480380091) | Custom quizzes powered by AI |
+
+<br/>
+
+<div align="center">
+
+[![App Store](https://img.shields.io/badge/View_All_Apps-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/developer/mason-earl/id1138029742)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+### Projects
+
+| Repo | Description |
+|------|-------------|
+| [masonearl.com](https://github.com/masonearl/masonearl.com) | Personal site, wiki (90+ pages), tools, and experiments |
+| [utah-construction](https://github.com/masonearl/utah-construction) | Directory of Utah construction companies with revenue data |
+| [construction-tools](https://github.com/masonearl/construction-tools) | Top 70 construction software tools worldwide |
+
+---
+
 <div align="center">
 
 ### Now Playing
@@ -72,17 +142,6 @@ $ cat philosophy.txt
 <sub>If nothing's playing, I'm probably in Xcode or Cursor.</sub>
 
 </div>
-
----
-
-### Projects
-
-| Repo | Description |
-|------|-------------|
-| [masonearl.com](https://github.com/masonearl/masonearl.com) | Personal site, wiki, tools, and experiments |
-| [utah-construction](https://github.com/masonearl/utah-construction) | Directory of Utah construction companies with revenue data |
-| [construction-tools](https://github.com/masonearl/construction-tools) | Top 70 construction software tools worldwide |
-| [einstein](https://github.com/masonearl/einstein) | Einstein's contributions and the evolution of his ideas |
 
 ---
 
@@ -102,7 +161,7 @@ $ cat philosophy.txt
 
 ```
 $ exit
-> Thanks for stopping by.
+> Thanks for stopping by. Go build something.
 ```
 
 </div>
