@@ -22,7 +22,7 @@
 
 ```bash
 $ whoami
-> mason earl — salt lake city — cursor ambassador — ios & macos developer — former construction pm
+> mason earl — salt lake city — cursor ambassador — ios & macos developer — construction pm & estimator
 
 $ cat skills.txt
 > swift, swiftui, uikit, react, typescript, next.js, cursor, xcode, vercel
