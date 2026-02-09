@@ -50,6 +50,7 @@ $ cat philosophy.txt
 - [Construction Docs Pro](https://apps.apple.com/us/app/construction-docs-pro/id6736613259) — Estimates & bid documents
 - [Paperloop](https://apps.apple.com/us/app/paperloop/id6480380090) — Effortless productivity
 - [fsocial](https://apps.apple.com/us/app/fsocial/id6738994024) — All your platforms, one window
+- [Cursor Widget](https://apps.apple.com/us/app/cursor-widget/id6758641320?mt=12) — Tasks, timers, and inspiration on your desktop
 
 ### Web
 - **[masonearl.com](https://masonearl.com)** — Personal site with 90+ wiki pages, games, and tools:
