@@ -1,15 +1,6 @@
 <div align="center">
 
-```
- ███╗   ███╗ █████╗ ███████╗ ██████╗ ███╗   ██╗
- ████╗ ████║██╔══██╗██╔════╝██╔═══██╗████╗  ██║
- ██╔████╔██║███████║███████╗██║   ██║██╔██╗ ██║
- ██║╚██╔╝██║██╔══██║╚════██║██║   ██║██║╚██╗██║
- ██║ ╚═╝ ██║██║  ██║███████║╚██████╔╝██║ ╚████║
- ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
-```
-
-**Cursor Ambassador** · **iOS & macOS Developer** · **15+ Apps in the App Store**
+**construction & technology** · **iOS / macOS / web Developer** · **15+ Apps in the App Store**
 
 [![Website](https://img.shields.io/badge/masonearl.com-111?style=flat-square&logo=safari&logoColor=fff)](https://masonearl.com)
 [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=fff)](https://apps.apple.com/us/developer/mason-earl/id1138029742)
