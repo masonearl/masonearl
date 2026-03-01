@@ -18,7 +18,7 @@
 - [Cursor Widget](https://apps.apple.com/us/app/cursor-widget/id6758641320?mt=12) — Tasks, timers, and inspiration on your desktop
 
 ### Web
-- [openmud](https://openmud.ai) — Open-source agentic AI for heavy civil and underground utility construction. Free tools, calculators, and AI agents for contractors. MIT license. [GitHub](https://github.com/masonearl/openmud)
+- [openmud](https://openmud.ai) — Open-source agentic AI for heavy civil and underground utility construction. Free tools, calculators, and AI agents for contractors. 
 - [MudRag](https://mudrag.ai) — AI construction assistant. Estimate, bid, schedule. Built for contractors.
 - **[masonearl.com](https://masonearl.com)** — Personal site with 90+ wiki pages, games, and tools:
   - [Quick Bid](https://masonearl.com/pages/tools/quick-bid/) — Fast construction estimating
